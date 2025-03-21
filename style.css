@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+}
+
+.tile {
+    flex: auto;
+    aspect-ratio: 1;
+}
